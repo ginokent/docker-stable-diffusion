@@ -1,0 +1,5 @@
+/.git/
+/stable-diffusion*/
+Dockerfile
+docker-compose.yml
+setup.sh
